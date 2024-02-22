@@ -21,7 +21,7 @@
 
 <h3>How to Play:</h3>
 <ol>
-  <li>Open the <code>index.html</code> file in your web browser.</li>
+  <li>Click the link https://app.netlify.com/sites/blackjack-verysimple/overview </li>
   <li>Enter your name in the input field provided.</li>
   <li>Click the "<strong>START game</strong>" button to begin.</li>
   <li>Follow the prompts to draw additional cards or stand.</li>
